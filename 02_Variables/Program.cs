@@ -10,6 +10,8 @@ namespace _02_Variables
     {
         static void Main(string[] args)
         {
+         // bazı işlemleri aynı başlık altında yaptım.
+           
             #region Double Değişkenler
 
             //Console.WriteLine("***** Fiyat Listesi *****");
@@ -130,19 +132,19 @@ namespace _02_Variables
             #endregion
 
             #region Klavyeden Ondalıklı Sayı Girişleri Ve Dönüşümleri
-            double exam1, exam2,exam3,result;
-            Console.Write("1.Sayıyı Giriniz: ");
-            exam1=double.Parse(Console.ReadLine());
+            //double exam1, exam2,exam3,result;
+            //Console.Write("1.Sayıyı Giriniz: ");
+            //exam1=double.Parse(Console.ReadLine());
             
-            Console.Write("2.Sayıyı Giriniz: ");
-            exam2 = double.Parse(Console.ReadLine());
+            //Console.Write("2.Sayıyı Giriniz: ");
+            //exam2 = double.Parse(Console.ReadLine());
             
-            Console.Write("3.Sayıyı Giriniz: ");
-            exam3 = double.Parse(Console.ReadLine());
+            //Console.Write("3.Sayıyı Giriniz: ");
+            //exam3 = double.Parse(Console.ReadLine());
           
-            result=exam1+exam2+exam3/3;
+            //result=exam1+exam2+exam3/3;
             
-            Console.Write("Sınav Sonucunuz: "+result);
+            //Console.Write("Sınav Sonucunuz: "+result);
             
             
             
