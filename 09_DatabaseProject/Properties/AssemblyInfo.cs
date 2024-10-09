@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("04_Loops")]
+[assembly: AssemblyTitle("09_DatabaseProject")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("04_Loops")]
+[assembly: AssemblyProduct("09_DatabaseProject")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,11 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-<<<<<<< HEAD
-[assembly: Guid("fdc5cc5a-64a2-4087-b670-daa351b0fe11")]
-=======
-[assembly: Guid("e98144d1-6c28-40f6-bc96-1f6ca5b091be")]
->>>>>>> Variable dosyasına yorum satırı eklendi.
+[assembly: Guid("fdbc0d03-0c2d-4763-b70d-9888a77e5b10")]
 
 // Version information for an assembly consists of the following four values:
 //
